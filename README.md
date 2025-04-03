@@ -1,1 +1,1 @@
-# OOPS_assignment
+# A comprehensive guide to Object-Oriented Programming (OOP) in Python, covering key concepts like classes, inheritance, polymorphism, encapsulation, and method resolution. Includes theory, coding exercises, and practical implementations of OOP principles.
